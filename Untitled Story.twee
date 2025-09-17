@@ -1,0 +1,74 @@
+:: StoryTitle
+Untitled Story
+
+
+:: StoryData
+{
+  "ifid": "84D295D9-0632-40DC-ABD3-E6A4554821E8",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "Untitled Passage",
+  "zoom": 1
+}
+
+
+:: \ Nod {"position":"1100,900","size":"100,100"}
+(align:"<==")+(box:"X=")["Not much of a talk, huh?"]
+
+(align:"=><=")[[Continue ]]]
+
+
+:: Abram Petrov {"position":"700,1300","size":"100,100"}
+Bory taps his chin thinking to himself
+
+
+:: Continue {"position":"900,700","size":"100,100"}
+(align:"=><=")[You enter into a cruddy looking office sitting down across from a man who looks like a
+Walking Corpse with sharpened fingers.
+]
+(align:"<==")+(box:"X=")["Hey kid, looks like you made it. Names Borysenko but everyone calls me Bory I'm going to ask you a few questions if you wish to work with us."]
+
+(align:"==>")+(box:"=X")[ [[Wish to work with you slobs never... but I need... money.]]
+
+//[[ Nod]]//]
+
+
+:: Continue\  {"position":"900,1100","size":"100,100"}
+(align:"<==")+(box:"X=")["First your name, and any significance i should know I don't want any militias stomping down my door."]
+
+(align:"==>")+(box:"=X")[ [[Abram Petrov]]
+
+[[I'm Abram Petrov, the only Importance it really has to me and others is the longstanding family that it comes from, stretching line of doctors, which I was supposed to become one of them. ]] ]
+
+
+:: I'm Abram Petrov, the only Importance it really has to me and others is the longstanding family that it comes from, stretching line of doctors, which I was supposed to become one of them.\  {"position":"1100,1300","size":"100,100"}
+
+
+
+:: Untitled Passage {"position":"900,300","size":"100,100"}
+(font:'Sigmar One') 
+[(align:"=><=")[(size:3)[The Interview ]
+
+[[start]]]]
+
+
+
+
+
+:: Wish to work with you slobs never... but I need... money. {"position":"700,900","size":"100,100"}
+(align:"=><=")[Bory gives a wide smile.
+]
+
+(align:"<==")+(box:"X=")["Don't we all."]
+
+(align:"=><=")[[Continue ]] ]
+
+
+:: start {"position":"900,500","size":"100,100"}
+Your name is Abram Petrov you were a the son of a rich line of doctors. You were born with a birthmark across your face that you kept hidden all your life. One day In your final year of med school you had the mark reavealed and you became a laughing stock. For embrassing the Petrov house you were disowned. You left your home country and now scraped for cash you want to work for a mercenary group as a combat medic...
+
+[[Continue]]
+
+
+:: StoryStylesheet [stylesheet]
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap'); 
