@@ -13,23 +13,29 @@ Untitled Story
 
 
 :: \ Nod {"position":"1100,900","size":"100,100"}
-(align:"<==")+(box:"X=")["Not much of a talk, huh?"]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")["Not much of a talk, huh?"]
 
 (align:"=><=")[[Continue ]]]
 
 
 :: 23. I don't enjoy many things how old I am doesn't matter. {"position":"900,1425","size":"100,100"}
-What's your relationship, status and or history?
 
-(align:"<==")+(box:"=X")[[This, there was this one girl when I was younger... We never officially went out... But... Never mind it's complicated... Wait why are you even asking that!]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[What's your relationship, status and or history?]]
+
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[This, there was this one girl when I was younger... We never officially went out... But... Never mind it's complicated... Wait why are you even asking that!]]]
 
 
 :: Abram Petrov {"position":"0,1175","size":"100,100"}
 Bory taps his chin thinking to himself
 
 
-:: Black, Cuz. After this, I think I need to get blackout drunk. {"position":"1000,3275","size":"100,100"}
-Yeah, I'm just fucking with you atthis point. You're in and I'll join you on blacking out.
+:: Black, Cuz. After this, I think I need to get blackout drunk. {"position":"1000,3400","size":"100,100"}
+
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[Yeah, I'm just fucking with you at this point. You're in and I'll join you on blacking out.]]
 
 [[The End]]
 
@@ -38,134 +44,175 @@ Yeah, I'm just fucking with you atthis point. You're in and I'll join you on bla
 (align:"=><=")[You enter into a cruddy looking office sitting down across from a man who looks like a
 Walking Corpse with sharpened fingers.
 ]
-(align:"<==")+(box:"X=")["Hey kid, looks like you made it. Names Borysenko but everyone calls me Bory I'm going to ask you a few questions if you wish to work with us."]
 
-(align:"==>")+(box:"=X")[ [[Wish to work with you slobs never... but I need... money.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")["Hey kid, looks like you made it. Names Borysenko but everyone calls me Bory I'm going to ask you a few questions if you wish to work with us."]]
 
-//[[ Nod]]//]
+(font:'Felipa') 
+[(align:"==>")+(box:"=X")[ [[Wish to work with you slobs never... but I need... money.]]
+
+//[[ Nod]]//]]
 
 
 :: Continue\  {"position":"900,1100","size":"100,100"}
-(align:"<==")+(box:"X=")["First your name, and any significance i should know I don't want any militias stomping down my door."]
+
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")["First your name, and any significance i should know I don't want any militias stomping down my door."]
 
 
-
+(font:'Felipa')
 [[I'm Abram Petrov, the only Importance it really has to me and others is the longstanding family that it comes from, stretching line of doctors, which I was supposed to become one of them. ]] ]
 
 
 :: I usually tend to stick to myself. I haven't really worked with a team before. Though, if I'm going to be of any use. I need to try. {"position":"900,2550","size":"100,100"}
-Got any dreams for the future.
 
-(align:"<==")+(box:"=X")[[What is that the dream about...? If I have to say anything. Maybe finish getting my medical license. I know anything is better compared to howthings are right now.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[Got any dreams for the future.]]
+
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[What is that the dream about...? If I have to say anything. Maybe finish getting my medical license. I know anything is better compared to howthings are right now.]]]
 
 
+:: I'm Abram Petrov, the only Importance it really has to me and others is the longstanding family that it comes from, stretching line of doctors, which I was supposed to become one of them.\  {"position":"900,1275","size":"100,100"}
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[Alright, What is your age? You seem young, you enjoy having your youth?]]
 
-:: I'm Abram Petrov, the only Importance it really has to me and others is the longstanding family that it comes from, stretching line of doctors, which I was supposed to become one of them.\  {"position":"900,1300","size":"100,100"}
-Alright, What is your age? You seem young, you enjoy having your youth?
-
-(align:"<==")+(box:"=X")[[23. I don't enjoy many things how old I am doesn't matter.]]
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[23. I don't enjoy many things how old I am doesn't matter.]]]
 
 
 :: I'm probably your best physician you'd ever have for a team. That's for weaknesses. I am not well trained for combat. {"position":"900,1800","size":"100,100"}
-What is your general philosophy?
 
-(align:"<==")+(box:"=X")[[philosophy?]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[What is your general philosophy?]]
 
-
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[philosophy?]]]
 
 
 :: I've lost everything. Nothing's important to me, not anymore. {"position":"900,2175","size":"100,100"}
-Well, aren't you a sad to sack of shit? What adjective would you describe yourself as?
 
-(align:"<==")+(box:"=X")[[Vial, Disgusting, wretched. Take your pick.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[Well, aren't you a sad to sack of shit? What adjective would you describe yourself as?]]
 
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[Vial, Disgusting, wretched. Take your pick.]]]
 
 
 :: My Philosophy is the world's fucked up, and people should stop pretending it's not. {"position":"900,2050","size":"100,100"}
-I hear that! What's the most important things in your life? Just in case I need some insurance.
 
-(align:"<==")+(box:"=X")[[I've lost everything. Nothing's important to me, not anymore.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[I hear that! What's the most important things in your life? Just in case I need some insurance.]]
+
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[I've lost everything. Nothing's important to me, not anymore.]]]
 
 
 :: None of your damn business! {"position":"800,2800","size":"100,100"}
-No need to be rude.
 
-(align:"<==")+(box:"=X")[ [[look at him annoyed.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[No need to be rude.]]
+
+(font:'Felipa')
+[(align:"<==")+(box:"=X") [[look at him annoyed.]]]
 
 
 :: Nothing major I grew up around doctors, just a bit of scarring around my mouth. As for where it's heading I have my own Medical Eye so I shall live a long life if I don't get shot in the head. {"position":"900,1675","size":"100,100"}
-What is your greatest weakness and greatest strength?
 
-(align:"<==")+(box:"=X")[[I'm probably your best physician you'd ever have for a team. That's for weaknesses. I am not well trained for combat.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[What is your greatest weakness and greatest strength?]]
+
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[I'm probably your best physician you'd ever have for a team. That's for weaknesses. I am not well trained for combat.]]]
 
 
 :: That girl I talked about before. I remember playing silly games like when we were young with her those are my precious memories. {"position":"1000,2800","size":"100,100"}
-Oh, look at you, you really had a little girly, I didn't you?
+
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[Oh, look at you, you really had a little girly, I didn't you?]]
  
-(align:"<==")+(box:"=X")[ [[look at him annoyed.]]
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[look at him annoyed.]]]
 
 
 :: The End {"position":"900,300","size":"100,100"}
 (font:'Sigmar One') 
 [(align:"=><=")[(size:3)[The Interview ]
 
-[[start]]]]
+[[start]]]]<!--Comment Text-->
 
 
 :: This, there was this one girl when I was younger... We never officially went out... But... Never mind it's complicated... Wait why are you even asking that! {"position":"900,1550","size":"100,100"}
-Just curious, What is your medical history? How is your health right now? and do Where's it headed?
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[Just curious, What is your medical history? How is your health right now? and do Where's it headed?]]
 
-(align:"<==")+(box:"=X")[[Nothing major I grew up around doctors, just a bit of scarring around my mouth. As for where it's heading I have my own Medical Eye so I shall live a long life if I don't get shot in the head.]]
-]
-
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[Nothing major I grew up around doctors, just a bit of scarring around my mouth. As for where it's heading I have my own Medical Eye so I shall live a long life if I don't get shot in the head.]]]
 
 
 :: Vial, Disgusting, wretched. Take your pick. {"position":"900,2300","size":"100,100"}
-And how people describe you?
 
-(align:"<==")+(box:"=X")[[Vial, Disgusting, wretched. Take your pick...]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[And how people describe you?]]
+
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[Vial, Disgusting, wretched. Take your pick...]]]
 
 
 :: Vial, Disgusting, wretched. Take your pick... {"position":"900,2425","size":"100,100"}
-Now you're showing that you belong with us. So, How do you work with the team? I'd rather not have to deal with replacing you if you die because you can't work with a team.
 
-(align:"<==")+(box:"=X")[[I usually tend to stick to myself. I haven't really worked with a team before. Though, if I'm going to be of any use. I need to try.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[Now you're showing that you belong with us. So, How do you work with the team? I'd rather not have to deal with replacing you if you die because you can't work with a team.]]
+
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[I usually tend to stick to myself. I haven't really worked with a team before. Though, if I'm going to be of any use. I need to try.]]]
 
 
 :: What is that the dream about...? If I have to say anything. Maybe finish getting my medical license. I know anything is better compared to howthings are right now. {"position":"900,2675","size":"100,100"}
-Any notable memories from your past, or is everything from there all sad and sappy?
 
-(align:"<==")+(box:"=X")[[That girl I talked about before. I remember playing silly games like when we were young with her those are my precious memories.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[Any notable memories from your past, or is everything from there all sad and sappy?]]
 
-(align:"<==")+(box:"=X")[[None of your damn business!]]
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[That girl I talked about before. I remember playing silly games like when we were young with her those are my precious memories.]]
+(align:"<==")+(box:"=X")[[None of your damn business!]]]
 
 
 :: Wish to work with you slobs never... but I need... money. {"position":"700,900","size":"100,100"}
 (align:"=><=")[Bory gives a wide smile.
 ]
 
-(align:"<==")+(box:"X=")["Don't we all."]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")["Don't we all."]
 
 (align:"=><=")[[Continue ]] ]
 
 
 :: failure {"position":"900,3075","size":"100,100"}
-If you were a color, what color would you be?
 
-(align:"<==")+(box:"=X")[[Black, Cuz. After this, I think I need to get blackout drunk.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[If you were a color, what color would you be?]]
+
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[Black, Cuz. After this, I think I need to get blackout drunk.]]]
 
 
+:: look at him annoyed. {"position":"900,2925","size":"100,100"}
 
-:: look at him annoyed. {"position":"900,2950","size":"100,100"}
-What are you most afraid of?
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[What are you most afraid of?]]
 
-(align:"<==")+(box:"=X")[[failure]]
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[failure]]]
 
 
 :: philosophy? {"position":"900,1925","size":"100,100"}
-What I find you as interesting little piece of shit.
 
-(align:"<==")+(box:"=X")[[My Philosophy is the world's fucked up, and people should stop pretending it's not.]]
+(font:'Barrio') 
+[(align:"<==")+(box:"X=")[What I find you as interesting little piece of shit.]]
+
+(font:'Felipa')
+[(align:"<==")+(box:"=X")[[My Philosophy is the world's fucked up, and people should stop pretending it's not.]]]
 
 
 :: start {"position":"900,500","size":"100,100"}
@@ -176,3 +223,7 @@ Your name is Abram Petrov you were a the son of a rich line of doctors. You were
 
 :: StoryStylesheet [stylesheet]
 @import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Felipa&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Barrio&display=swap');
